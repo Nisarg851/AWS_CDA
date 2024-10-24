@@ -125,4 +125,3 @@
 - [Amazon ElastiCache Docs](https://docs.aws.amazon.com/AmazonElastiCache/latest/mem-ug/WhatIs.html)
 - [MemoryDB Docs](https://docs.aws.amazon.com/memorydb/latest/devguide/Welcome.html)
 - [AWS Notes by Tahseer](https://arkalim.notion.site)
-- [Video Labs for RDS and ElastiCache](https://www.youtube.com/watch?v=D-1u0dBM-q8) 
