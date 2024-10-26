@@ -124,4 +124,4 @@
 - [Amazon Aurora Docs](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html)
 - [Amazon ElastiCache Docs](https://docs.aws.amazon.com/AmazonElastiCache/latest/mem-ug/WhatIs.html)
 - [MemoryDB Docs](https://docs.aws.amazon.com/memorydb/latest/devguide/Welcome.html)
-- [AWS Notes by Tahseer](https://arkalim.notion.site)
+- [AWS Notes by Tahseer](https://arkalim.notion.site/Notes-143374c83daa4d4991b07400056a2aa9)

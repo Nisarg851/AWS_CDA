@@ -23,7 +23,6 @@
     - [CloudWatch Integration:](#cloudwatch-integration)
 - [Best Practices](#best-practices)
 - [Resources](#resources)
-- [Resources](#resources-1)
 
 # Introduction
 - [Amazon Elastic Container Service (ECS)](https://docs.aws.amazon.com/AmazonECS/latest/userguide/what-is-ecs.html) is a fully managed container orchestration service that enables you to run and manage Docker containers at scale.
@@ -125,11 +124,5 @@
 - Implement monitoring and logging to identify and troubleshoot issues quickly.
 
 # Resources
-- [AWS ECS Documentation](https://docs.aws.amazon.com/AmazonECS/latest/userguide/what-is-ecs.html)
-- [AWS Hands-on Labs for ECS](https://aws.amazon.com/getting-started/hands-on/)
-- [AWS Developer Associate Exam Guide](https://aws.amazon.com/certification/certified-developer-associate/)
-
-
-# Resources
 - [AWS ECS Docs](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html)
-- [AWS Notes by Tahseer](https://arkalim.notion.site/IAM-e1b1d6d4287644b8874dd7614f3c6d49#fd868bc3e20c40a3818fa77334f76be7)
+- [AWS Notes by Tahseer](https://arkalim.notion.site/Notes-143374c83daa4d4991b07400056a2aa9)

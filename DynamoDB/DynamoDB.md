@@ -92,4 +92,4 @@
 
 # Resources
 - [AWS DynamoDB Documentation](https://docs.aws.amazon.com/dynamodb/index.html)
-- [AWS Notes by Tahseer](https://arkalim.notion.site/IAM-e1b1d6d4287644b8874dd7614f3c6d49#fd868bc3e20c40a3818fa77334f76be7)
+- [AWS Notes by Tahseer](https://arkalim.notion.site/Notes-143374c83daa4d4991b07400056a2aa9)
