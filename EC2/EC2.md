@@ -135,4 +135,4 @@
 
 # References
 - [AWS Docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)
-- [AWS Notes by Tahseer](https://arkalim.notion.site/EC2-0248f474aa154ae8b076725e1178d1b8#28a3a0b2c4df4819ae04ff116103a3da)
+- [AWS Notes by Tahseer](https://arkalim.notion.site/Notes-143374c83daa4d4991b07400056a2aa9)

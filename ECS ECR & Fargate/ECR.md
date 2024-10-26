@@ -17,7 +17,6 @@
 - [Security Best Practices](#security-best-practices)
 - [Pricing](#pricing)
 - [Resources](#resources)
-- [Resources](#resources-1)
 
 # Introduction
 - [Amazon Elastic Container Registry (ECR)](https://docs.aws.amazon.com/AmazonECR/latest/userguide/what-is-ecr.html) is a fully managed Docker container registry that makes it easy to store, manage, and deploy Docker container images.
@@ -116,10 +115,5 @@
 - There are no upfront fees, making it cost-effective for startups and small teams.
 
 # Resources
-- [AWS ECR Documentation](https://docs.aws.amazon.com/AmazonECR/latest/userguide/what-is-ecr.html)
-- [AWS Hands-on Labs for ECR](https://aws.amazon.com/getting-started/hands-on/)
-- [AWS Developer Associate Exam Guide](https://aws.amazon.com/certification/certified-developer-associate/)
-
-# Resources
 - [AWS ECR Docs](https://docs.aws.amazon.com/AmazonECR/latest/userguide/what-is-ecr.html)
-- [AWS Notes by Tahseer](https://arkalim.notion.site/IAM-e1b1d6d4287644b8874dd7614f3c6d49#fd868bc3e20c40a3818fa77334f76be7)
+- [AWS Notes by Tahseer](https://arkalim.notion.site/Notes-143374c83daa4d4991b07400056a2aa9)

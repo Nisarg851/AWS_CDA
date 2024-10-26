@@ -121,4 +121,4 @@ Amazon Route 53 supports various DNS routing policies to control how queries are
 # Resources
 - [AWS Route 53 Official Documentation](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html)
 - [AWS Route 53 Pricing](https://aws.amazon.com/route53/pricing/)
-- [AWS Notes by Tahseer](https://arkalim.notion.site)
+- [AWS Notes by Tahseer](https://arkalim.notion.site/Notes-143374c83daa4d4991b07400056a2aa9)

@@ -102,5 +102,4 @@
 
 # Resources
 - [Amazon CloudFront Documentation](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
-- [AWS Training](https://aws.amazon.com/training/)
-- [AWS Labs](https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg)
+- [AWS Notes by Tahseer](https://arkalim.notion.site/Notes-143374c83daa4d4991b07400056a2aa9)
